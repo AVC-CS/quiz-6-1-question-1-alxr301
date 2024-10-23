@@ -23,6 +23,7 @@ int getNextPrime(int begin){
         }
         if(isprime == 1){
             break; 
+            
         }
     }
     return i; 
